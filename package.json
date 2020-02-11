@@ -1,0 +1,23 @@
+{
+  "name": "flame-ui",
+  "version": "0.0.1",
+  "description": "A Vue.js UI Toolkit for Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjlscript/flame-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "wjlscript",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wjlscript/flame-ui/issues"
+  },
+  "homepage": "https://github.com/wjlscript/flame-ui#readme"
+}
